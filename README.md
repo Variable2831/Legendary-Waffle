@@ -41,3 +41,4 @@ We welcome contributions from the community! If you would like to contribute to 
 This code repository is licensed under the MIT License, which means you are free to use, modify, and distribute the code as long as you include the license in your project. See the `LICENSE` file for more information.
 
 ![Image description](/src/images/2.png)
+☕ [You can support me by buying me a coffee.](https://www.buymeacoffee.com/Variable2831)
