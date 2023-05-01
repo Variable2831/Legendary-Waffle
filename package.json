@@ -1,1 +1,17 @@
-
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A short description of my project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.39.0"
+  }
+}
