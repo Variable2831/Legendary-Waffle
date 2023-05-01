@@ -1,4 +1,4 @@
-![Image description](/src/images/Logo(1).png)
+![Image description](/src/images/1.png)
 
 This is an open-source JavaScript code repository that provides various functions and utilities for developers to use in their own projects. Please note that this project is still a work in progress. I am actively working on it and plan to add more features soon. If you have any suggestions or feedback, please feel free to open an issue or pull request.👍
 
@@ -38,3 +38,4 @@ We welcome contributions from the community! If you would like to contribute to 
 
 This code repository is licensed under the MIT License, which means you are free to use, modify, and distribute the code as long as you include the license in your project. See the `LICENSE` file for more information.
 
+![Image description](/src/images/2.png)
