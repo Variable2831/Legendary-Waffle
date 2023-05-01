@@ -1,6 +1,7 @@
 # Legendary Waffle 🧇
 
 This is an open-source JavaScript code repository that provides various functions and utilities for developers to use in their own projects.
+Please note that this project is still a work in progress. I am actively working on it and plan to add more features soon. If you have any suggestions or feedback, please feel free to open an issue or pull request. 😎
 
 ## Table of Contents
 
