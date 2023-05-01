@@ -1,15 +1,40 @@
 # Legendary Waffle
-### Summary of JavaScript Files
 
-The following JavaScript files are included in this project:
+This is an open-source JavaScript code repository that provides various functions and utilities for developers to use in their own projects.
 
-- circleCircumference.js
-- comparingObjects.js
-- numberGuessing.js
-- randomNumbers.js
+## Table of Contents
 
-All the JavaScript files included in this project are free to use for personal and commercial purposes. You can modify, distribute, and use these files as needed without any restrictions.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Note that while these files are free to use, they are provided as-is without any warranty or support. The authors of these files are not liable for any damages or issues that may arise from their use.
+## Installation
 
-We hope you find these files helpful for your projects. If you have any questions or feedback, please don't hesitate to contact.
+To use this code repository, simply clone or download the files to your local machine. There are no dependencies or prerequisites required for using this code.
+
+## Usage
+
+This repository provides a variety of JavaScript functions and utilities that you can use in your own projects. Here are some examples of the functions provided:
+
+- `randomNumber(min, max)`: generates a random number between `min` and `max`
+- `shuffleArray(array)`: shuffles the elements in an array
+- `capitalizeString(str)`: capitalizes the first letter of a string
+
+You can find the complete list of functions and utilities in the `src` directory. Each function is documented with a description, input parameters, and expected output.
+
+To use a function in your own project, simply import the function from the appropriate file and use it in your code. For example:
+
+import { randomNumber } from './src/random.js';
+
+const myNumber = randomNumber(1, 10);
+console.log(myNumber);
+
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute to this repository, please fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This code repository is licensed under the MIT License, which means you are free to use, modify, and distribute the code as long as you include the license in your project. See the `LICENSE` file for more information.
+
