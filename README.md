@@ -1,3 +1,5 @@
+![Image description](/src/images/Legendary%20(1).png)
+
 # Legendary Waffle 🧇
 
 This is an open-source JavaScript code repository that provides various functions and utilities for developers to use in their own projects.
