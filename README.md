@@ -1,5 +1,5 @@
 # Legendary Waffle
-# Summary of JavaScript Files
+## Summary of JavaScript Files
 
 The following JavaScript files are included in this project:
 
