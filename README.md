@@ -1,4 +1,4 @@
-![Image description](/src/images/Legendary%20(1).png)
+![Image description](/src/images/Logo.png)
 
 # Legendary Waffle 🧇
 
