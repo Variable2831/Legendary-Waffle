@@ -1,4 +1,4 @@
-![Image description](/src/images/1.png)
+![Image description](/src/images/1.gif)
 
 This is an open-source JavaScript code repository that provides various functions and utilities for developers to use in their own projects. 
 
@@ -40,5 +40,5 @@ We welcome contributions from the community! If you would like to contribute to 
 
 This code repository is licensed under the MIT License, which means you are free to use, modify, and distribute the code as long as you include the license in your project. See the `LICENSE` file for more information.
 
-![Image description](/src/images/2.png)
+![Image description](/src/images/2.gif)
 ☕ [You can support me by buying me a coffee.](https://www.buymeacoffee.com/Variable2831)
