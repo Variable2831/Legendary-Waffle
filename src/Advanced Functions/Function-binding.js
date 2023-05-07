@@ -19,7 +19,7 @@ function greet (name) {
   boundGreet = sayGoodbye.bind(this);
   
   // Call the bound function
-  boundGreet("John"); // Outputs "Goodbye, John"
+  boundGreet("John"); // Outputs "Goodbye, John" 
   
   // Create an object
   let person = {
