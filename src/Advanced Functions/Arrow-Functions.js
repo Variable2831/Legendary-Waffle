@@ -25,7 +25,7 @@ console.log(rightTriangleHypotenuse(3, 4))
 //113.0976
 //5
 
-//  arrow function to calculate the area of a triangle
+// arrow function to calculate the area of a triangle
 const triangleArea = (base, height) => (base * height) / 2;
 
 // arrow function to calculate the volume of a cylinder
