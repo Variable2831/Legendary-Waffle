@@ -1,4 +1,6 @@
 
+  // example one
+
 function toJSON(object) {
     let json = JSON.stringify(object);
     return json;
@@ -13,7 +15,7 @@ function toJSON(object) {
   console.log(json); // {"name":"John","age":20}
   
   
-  //another example
+  // example two
   
   function toJSON(array) {
     let json = JSON.stringify(array);
@@ -26,7 +28,7 @@ function toJSON(object) {
   console.log(json); // [1,2,3,4]
   
   
-  //another example
+  // example three
   
   function toJSON(obj) {
     let json = JSON.stringify(obj);
